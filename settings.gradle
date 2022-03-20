@@ -1,0 +1,2 @@
+rootProject.name = "Cedesi"
+include ':app'
