@@ -41,6 +41,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+
     override fun onDestroy() {
         gpsProvider.onDestroy()
         super.onDestroy()
